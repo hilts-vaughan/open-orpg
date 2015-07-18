@@ -1,6 +1,8 @@
 OpenORPG
 =========
 
+[![Join the chat at https://gitter.im/hilts-vaughan/OpenORPG](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hilts-vaughan/OpenORPG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 OpenORPG is an online roleplaying game engine that runs on the web. It uses open-source tools to help developers create their own net dream on the internet and share with other players with little to no hassle. OpenORPG takes a modern approach to develop accessible games ready for the web.
 
 Feature List
